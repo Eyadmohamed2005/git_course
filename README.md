@@ -1,3 +1,3 @@
-# giy_course
+# git_course
 
 ##project_notes
